@@ -1,0 +1,6 @@
+/**
+ * Alumno
+ */
+public class Alumno {
+
+}

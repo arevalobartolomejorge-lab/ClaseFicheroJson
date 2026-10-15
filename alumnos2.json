@@ -1,0 +1,13 @@
+[ {
+  "exp" : "1111",
+  "edad" : 21,
+  "nom" : "carlitos"
+}, {
+  "exp" : "3333",
+  "edad" : 24,
+  "nom" : "fermin"
+}, {
+  "exp" : "4444",
+  "edad" : 23,
+  "nom" : "julito"
+} ]
